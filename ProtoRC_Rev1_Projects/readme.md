@@ -52,4 +52,5 @@ Compact Flash card interface on ProtoRC board
 * CPLD equations
 
 ProtoCF [component side](DSC_39951002.jpg) pic
+
 ProtoCF [solder side](DSC_39961002.jpg) pic
