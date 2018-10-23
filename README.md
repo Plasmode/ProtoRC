@@ -26,7 +26,7 @@ Reduce the board height to 76mm so it is more stable.  Add dedicated 7-segment d
 ## Rev 2
 Minor modification to Rev 1 board.  Adding 4x20 LCD mounting holes and connector
 * Rev 2 [Schematic](ProtoRC_rev2_scm.pdf)
-* Rev 2 Gerber [Photoplots](PROTORC_rev2.zip)
+* Rev 2 Gerber Photoplots <- **Do not use, artwork has errors**
 * Rev 2 Bill of Materials
 * Rev 2 CPLD design template
 
