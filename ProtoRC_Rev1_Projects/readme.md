@@ -19,7 +19,7 @@ Seven-Segment displays on rev 1 ProtoRC board
 ***
 ## ProtoMem
 512KROM_512KRAM on ProtoRC board
-* Schematic
+* [Schematic](ProtoMem_scm.jpg)
 * CPLD equations
 
 ![](DSC_39640926.jpg)
