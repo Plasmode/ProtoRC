@@ -8,13 +8,13 @@ Bridge from RC2014 backplane to solderless breadboard
 ## BridgeSound
 ![](DSC_39930929.jpg)
 Sound chip on solderless breadboard connected to RC2014 via ProtoBridge
-* Schematic
+* [Schematic](BridgeSound_scm.jpg)
 * CPLD equations
 ***
 ## Proto7seg
 ![](DSC_36830622.jpg)
 Seven-Segment displays on rev 1 ProtoRC board
-* Schematic
+* [Schematic](Proto7seg_scm.jpg)
 * CPLD equations
 ***
 ## ProtoMem
@@ -33,7 +33,7 @@ Serial port implemented in EPM7128
 ***
 ## ProtoZ80
 Z80 on ProtoRC board
-* Schematic
+* [Schematic](ProtoZ80_scm.jpg)
 * CPLD equations
 
 ![](DSC_37140716.jpg)
@@ -48,7 +48,7 @@ Interface to SD card
 ## ProtoCF
 ![](DSC_39941002.jpg)
 Compact Flash card interface on ProtoRC board
-* Schematic
+* [Schematic](ProtoCF_scm.jpg)
 * CPLD equations
 
 ProtoCF [component side](DSC_39951002.jpg) pic
