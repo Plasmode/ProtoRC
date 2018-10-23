@@ -8,7 +8,9 @@ ProtoRC (Prototype for RC2014) is a 100mm x 100mm perf board with an Altera EPM7
 * Rev 0 [CPLD design template](ProtoRC_r0_template.zip)
 
 [Projects](ProtoRC_Rev0_Projects/readme.md) based on Rev 0 ProtoRC
+
 ![](DSC_36500526.jpg)
+
 [Rev 0 ProtoRC solder side](DSC_36510526.jpg)
 
 ***
@@ -20,6 +22,7 @@ Reduce the board height to 76mm so it is more stable.  Add dedicated 7-segment d
 * Rev 1 [CPLD design template](ProtoRC_r1_template.zip)
 
 [Projects](ProtoRC_Rev1_Projects/readme.md) based on Rev 1 ProtoRC
+
 ![](DSC_36810621.jpg)
 
 ***
@@ -31,5 +34,6 @@ Minor modification to Rev 1 board.  Adding 4x20 LCD mounting holes and connector
 * Rev 2 CPLD design template
 
 Projects based on Rev 2 ProtoRC
+
 ![](DSC_40071022.jpg)
 
