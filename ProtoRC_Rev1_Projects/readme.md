@@ -15,7 +15,8 @@ Sound chip on solderless breadboard connected to RC2014 via ProtoBridge
 ![](DSC_36830622.jpg)
 Seven-Segment displays on rev 1 ProtoRC board
 * [Schematic](Proto7seg_scm.jpg)
-* CPLD equations
+* [CPLD equations](proto7seg_release.zip)
+  - CPLD [schematic](Proto7seg_top_scm.pdf)
 ***
 ## ProtoMem
 512KROM_512KRAM on ProtoRC board
