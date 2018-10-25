@@ -23,7 +23,9 @@ Reduce the board height to 76mm so it is more stable.  Add dedicated 7-segment d
 
 [Projects](ProtoRC_Rev1_Projects/readme.md) based on Rev 1 ProtoRC
 
-![](DSC_36810621.jpg)
+![](DSC_40081024.jpg)
+
+[Rev 1 ProtoRC solder side](DSC_40091024.jpg)
 
 ***
 ## Rev 2
